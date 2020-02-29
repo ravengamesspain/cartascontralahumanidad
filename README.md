@@ -1,4 +1,4 @@
-# cartascontralahumanidad
+# CartasContra La Humanidad
 Juego "Cartas contra la humanidad"
 
 Estos son los archivos del proyecto de Unity "Cartas contra la humanidad".
